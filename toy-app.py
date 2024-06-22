@@ -31,3 +31,4 @@ with col2:
         df['age'].hist(bins = 10, ax=ax)
         fig.suptitle("Age Distribution")
         st.pyplot(fig)
+
